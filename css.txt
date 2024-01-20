@@ -1,0 +1,32 @@
+How to Learn CSS Quickly?
+
+Have you ever wondered how your favorite websites were designed? Behind every website design is a blueprint for the design. There’s also CSS code that brings a blueprint to fruition.
+Cascading Style Sheets, or CSS, is a programming language used by developers to define the aesthetics for a website. While the HTML language allows you to set the structure for a site, CSS allows you to determine how features of a site appear.0
+HTML and CSS work hand-in-hand together. When you see a title that uses a new font on a website, HTML will be used to define the title. Then, CSS will be used to set the font for the title. Consider a paragraph of text. HTML will be used to define the text. CSS styles will be used to change the color of the text.
+
+What is CSS Used For?
+
+CSS defines how an element on a web page should appear. CSS stands for Cascading Style Sheets. Styles can be applied using CSS either on an HTML document or in a separate stylesheet.
+Using CSS, developers write style rules, which tell a website how a certain HTML element should appear on a website. For instance, one style rule may define the height and width for an image on a web page. ANother may set the size of the text on a web page.
+The CSS language offers a vast array of properties, which are used to apply styles to different elements on a web page. These properties relate to the size of an element, its color, its borders, where it appears on the web page, and more. Here are a few different rules you may encounter in CSS:
+font-size sets the size of the text on a web page.
+color sets the color of text on a web page.
+height sets the height of an element on a web page.
+Each CSS property is assigned a value, which tells the browser how a certain element should appear. For example, CSS could be used to tell the browser to make all text blue
+
+Why Should You Learn CSS?
+
+For one thing, learning how to code in CSS gives you the ability to create your own website designs. Having knowledge of CSS will allow you to create a portfolio, for instance, without relying on stock templates. You can create something that’s unique to you.
+And we haven’t even discussed the career benefits of learning how to code in CSS. There is no shortage of employers who are actively looking for people who can code in CSS.
+Because talented CSS developers are in demand, salaries are high, too. At the time of this writing, Glassdoor reports the average salary for a web designer to be $52,691 —an impressive sum!
+
+How Long Does It Take to Learn CSS?
+Before learning CSS, we recommend that you spend a few weeks practicing HTML. It won’t take long to master, and you’ll arrive with a solid footing in the programming world. HTML can help you get a feel for basic syntax, which will come in handy during when learning CSS.
+Once you understand HTML and can build your own static websites, you’re ready to start learning CSS. Like the aforementioned language, learning the functional basics of CSS can take less than a month. However, CSS takes longer to master, and we recommend that you practice two to four hours per day.
+
+Is It Hard to Learn CSS?
+
+CSS is an easy programming language to learn at a basic level. The CSS technology was designed to be accessible so anyone could create their own styled web pages on the internet.
+A lot of the syntax you see in CSS will be very familiar when you learn the basic concepts of HTML.
+For instance, you can change several attributes like height and width for a specific image in your HTML file. However, what if you want to apply that to all the pictures on your page? That’s where CSS comes into play.
+Remember, CSS interacts with HTML elements in the same manner as the attributes within the element tags on an HTML file. However, you can touch on multiple elements at once through blocks of code in CSS called rules. If you’re comfortable styling all of your fonts, colors, and images in HTML, you will have no issues working with CSS. You’ll even find it easier once you get the hang of it.
